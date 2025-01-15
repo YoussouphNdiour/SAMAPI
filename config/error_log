@@ -1,0 +1,12 @@
+[01-Aug-2024 23:33:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/senagromarket/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/senagromarket/public_html/config/database.php on line 18
+[02-Oct-2024 01:00:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/senagromarket/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/senagromarket/public_html/config/database.php on line 18
+[02-Dec-2024 07:42:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/senagromarket/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/senagromarket/public_html/config/database.php on line 18
